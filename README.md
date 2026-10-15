@@ -2,10 +2,9 @@
 
 > LabelForge is a commercial-quality, full-stack B2B Multi-Tenant Warehouse Management System (WMS) SaaS boilerplate and starter kit. Engineered with **Next.js (App Router), Tailwind CSS v4, Drizzle ORM, and PostgreSQL**, it provides everything required to launch or scale modern logistics, 3PL distribution networks, and fulfillment hub software.
 
-[![https://labelforge-ochre.vercel.app/](https://img.shields.io/badge/Demo-Live_Preview-success?style=for-the-badge)](VOTRE_LIEN_DEMO_VERCEL)
-[![https://github.com/LabelForgeHQ/labelforge/blob/main/docs/02_ARCHITECTURE.md](https://img.shields.io/badge/Docs-Architecture_Guide-blue?style=for-the-badge)](VOTRE_LIEN_DOCUMENTATION)
-[![https://buy.polar.sh/polar_cl_4hLlciLo4KK2DzECHnfhT1cj49QfjNZNW81nw1sf8nq](https://img.shields.io/badge/Polar.sh-Get_Full_Source_Code-orange?style=for-the-badge)](VOTRE_LIEN_POLAR)
-
+[![Live Demo](https://img.shields.io/badge/Demo-Live_Preview-success?style=for-the-badge)](https://labelforge-ochre.vercel.app/)
+[![Documentation](https://img.shields.io/badge/Docs-Architecture_Guide-blue?style=for-the-badge)](https://github.com/LabelForgeHQ/labelforge/blob/main/docs/02_ARCHITECTURE.md)
+[![Get Access](https://img.shields.io/badge/Polar.sh-Get_Full_Source_Code-orange?style=for-the-badge)](https://buy.polar.sh/polar_cl_4hLlciLo4KK2DzECHnfhT1cj49QfjNZNW81nw1sf8nq)
 ---
 
 ## 🏛️ Core Architectural Highlights
@@ -61,7 +60,6 @@ Experience the full enterprise application with 1-click demo access:
 - **Interactive Demo:** [Launch Live Preview](https://labelforge-ochre.vercel.app/)
 - **Architecture Documentation:** [Explore the Docs](https://github.com/LabelForgeHQ/labelforge/blob/main/docs/02_ARCHITECTURE.md)
 - **Purchase Source Code Access:** [Instant GitHub Access on Polar.sh](https://buy.polar.sh/polar_cl_4hLlciLo4KK2DzECHnfhT1cj49QfjNZNW81nw1sf8nq)
-
 ---
 
 ## 📄 License & Commercial Terms
