@@ -4,6 +4,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live_Preview-success?style=for-the-badge)](https://labelforge-ochre.vercel.app/)
 [![Get Access](https://img.shields.io/badge/Polar.sh-Get_Full_Source_Code-orange?style=for-the-badge)](https://buy.polar.sh/polar_cl_4hLlciLo4KK2DzECHnfhT1cj49QfjNZNW81nw1sf8nq)
+[![Watch Video Walkthrough](https://img.shields.io/badge/YouTube-Watch_Walkthrough-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YcYZPdQerWY)
 ---
 
 ## 🏛️ Core Architectural Highlights
